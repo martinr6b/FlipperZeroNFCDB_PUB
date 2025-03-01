@@ -1,5 +1,5 @@
 # Flipper zero 🐬NFC&RFID database 🫙
-[![](https://dcbadge.limes.pink/api/server/INVITE)](https://discord.gg/c2CaMQDF9t)
+[![](https://dcbadge.limes.pink/api/server/(https://discord.gg/c2CaMQDF9t))](https://discord.gg/c2CaMQDF9t)
 
 
 
